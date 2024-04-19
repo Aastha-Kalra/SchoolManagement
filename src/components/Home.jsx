@@ -5,7 +5,7 @@ import { IoIosArrowForward } from "react-icons/io";
 const Images = [
   {
     imageUrl:
-      "https://www.dbgisre.edu.in/wp-content/uploads/2023/07/DSC_0395-1-1-1-1-scaled.webp",
+      "images/sre4.jpg",
   },
   {
     imageUrl: "https://www.dbgisre.edu.in/wp-content/uploads/2023/07/sre3.jpg",
