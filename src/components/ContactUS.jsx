@@ -41,7 +41,7 @@ const Contact = () => {
         REQUEST A CALL BACK
         </div>
 
-      <div className="w-full h-full text-lg  my-14 flex px-5 gap-4 xl:flex-row flex-col text-white">
+      <div className="w-full h-full text-lg mt-14 flex px-5 gap-4 xl:flex-row flex-col text-white">
         <div className="flex flex-col gap-10 w-full md:pl-1 ">
           <div className="flex justify-center items-center gap-10 bg-green-700 py-5 rounded-xl w-full">
             <span className="text-red-800 font-bold ">
