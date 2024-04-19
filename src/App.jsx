@@ -2,6 +2,7 @@ import AboutUS from "./components/AboutUS"
 import ContactUS from "./components/ContactUS"
 import Director from "./components/Director"
 import Facilities from "./components/Facilities"
+import Footer from "./components/Footer"
 import Header from "./components/Header"
 import Highlight from "./components/Highlight"
 import Home from "./components/Home"
@@ -22,6 +23,7 @@ function App() {
     <Testimonials/>
     <Social/>
     <ContactUS/>
+    <Footer/>
     </>
   )
 }
