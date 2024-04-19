@@ -3,8 +3,8 @@ const AboutUS = () => {
     <div className="w-full h-auto py-20 px-10 bg-gray-200 flex md:flex-row flex-col justify-between items-center  gap-10">
       <div className="w-full h-full flex justify-center items-center p-10 ">
         <img
-          src="https://www.dbgisre.edu.in/wp-content/uploads/2023/07/51281072899_7a851fa21a_o-1-1-scaled.webp"
-          alt=""
+          src="images/about.webp"
+          alt="about dbgi"
           className="rounded-md"
         />
       </div>
